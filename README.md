@@ -1,0 +1,2 @@
+# Ada Off-by-One Error Example
+This repository demonstrates a common off-by-one error in Ada programming.  Ada uses 1-based indexing for arrays, which can lead to runtime errors if not handled correctly. The `bug.ada` file contains the erroneous code, while `bugSolution.ada` provides the corrected version.
